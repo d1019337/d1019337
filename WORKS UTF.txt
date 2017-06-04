@@ -1,0 +1,18 @@
+﻿<html>
+<head>
+	<title>работь</title>
+</head>
+<body>
+<style>
+body {
+    background-color: #915f6d;
+}
+</style>
+<br/><br/> 
+<center><img src="11.jpg"alt="Альтернативный текст" width="700" height="500" />
+<center><img src="12.jpg"alt="Альтернативный текст" width="700" height="500" />
+<center><img src="13.jpg"alt="Альтернативный текст" width="700" height="500" />
+</center>
+<br/><br/>
+</body>
+</html>

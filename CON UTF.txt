@@ -1,0 +1,14 @@
+﻿<html>
+<head>
+	<title>контакты</title>
+<style>
+body {
+    background-color: #915f6d;
+}
+</style>
+
+
+<center><h1>Обращаться по телефону 
++7800-322-35-35 </h1></center>
+</body>
+</html>
